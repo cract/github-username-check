@@ -1,0 +1,11 @@
+* github-username-check
+  I know lot of you guys need a cool username, chances are your
+  desired username is taken but you know you gotta live with what
+  you got, So this program will guide you there!
+
+** TODO Add nubmers
+   I think it would be really cool!
+** TODO Little Selection Menu
+   Menu that allows you to change what type of username you are
+   looking for..
+   
